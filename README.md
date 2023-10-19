@@ -1,2 +1,2 @@
-# PruebaReact2MammaMia
-Prueba de react2 desafio latam Mamma Mia
+Trabajo final modulo react 2 Mamma Mia
+Nicolás Arratia
